@@ -1,0 +1,4 @@
+(function(){var loadHandler=window['sl_{291B8F32-7CA2-4444-ADA0-600769861548}'];loadHandler&&loadHandler(0, '<div id="spr0_27c4a"><div id="spr1_27c4a" class="kern"><img id="img3_27c4a" src="data/img3.png" width="720px" height="450px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_27c4a" class="kern"><div id="spr3_27c4a" style="left:7.616px;top:20.883px;"><img id="img0_27c4a" src="data/img0.png" width="693" height="106" alt="" style="left:-0.21px;top:0.164px;"/></div><div id="spr4_27c4a" style="left:92px;top:105px;"><img id="img1_27c4a" src="data/img1.png" width="545" height="63" alt="Unité 1 : leçon 3 parler du caractère"/></div><div id="spr5_27c4a" style="left:110px;top:117px;"><img id="img2_27c4a" src="data/img2.png" width="528" height="342" alt="Par\
+Gamal Asker \
+Professeur de français\
+www.gamalasker.com"/></div></div></div>');})();
